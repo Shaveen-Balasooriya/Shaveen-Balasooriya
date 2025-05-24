@@ -12,7 +12,6 @@ My technological interests are as expansive as they are deep. While I'm currentl
 When I'm not immersed in code, you'll often find me lost in the chords of my 🎸 **guitar or 🎹 piano**, exploring new destinations through ✈️ **travel**, or grounding myself with a 🥾 **hike** amidst nature. I'm not one for conventional learning paths; my growth is self-directed 📚 and fueled by an intrinsic desire to continuously evolve and truly stand out—to be that **1 in 1,000,000**. My motto for both life and code: 💭 "**Make it Clean. Make it make sense. Make it Last.**" captures the essence of my dedication to excellence and enduring impact.
 </p>
 
-# What I'm good with 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
