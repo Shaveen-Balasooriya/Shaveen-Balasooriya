@@ -6,6 +6,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaveen-Balasooriya&layout=compact&card_width=320&size_weight=0.5&count_weight=0.5&theme=ayu-mirage&hide_border=true" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shaveen-Balasooriya/Shaveen-Balasooriya/blob/output/github-contribution-grid-snake.gif)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=footer)
