@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://github.com/Shaveen-Balasooriya">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaveen-Balasooriya&show=prs_merged,prs_merged_percentage&show_icons=true&theme=ayu-mirage&hide_border=true&custom_title=My%20GitHub%20Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shaveen-Balasooriya&show=prs_merged,prs_merged_percentage&show_icons=true&theme=ayu-mirage&hide_border=true&custom_title=My%20GitHub%20Stats&card_width=495" />
   </a>
   <a href="https://github.com/Shaveen-Balasooriya">
-    <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaveen-Balasooriya&size_weight=0.5&count_weight=0.5&layout=compact&theme=ayu-mirage&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaveen-Balasooriya&size_weight=0.5&count_weight=0.5&layout=compact&theme=ayu-mirage&hide_border=true&card_width=495" />
   </a>
 </div>
 
