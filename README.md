@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=header&text=Shaveen%20Balasooriya&desc=Software%20Engineer%20|%20System%20Architect%20|%20Solution%20Architect%20|%20%20Cybersecurity%20Enthusiast&descSize=15&descAlignY=94&animation=fadeIn&width=100%)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true)
+
 <p align="justify">
 From the verdant landscapes of 🇱🇰 <strong>Kandy, Sri Lanka</strong>, my digital adventure ignited even before attending Trinity College 🎓 and was forged further through the rigorous academics of the University of Plymouth.
 
@@ -9,8 +11,6 @@ My technological interests are as expansive as they are deep. While I'm currentl
 
 When I'm not immersed in code, you'll often find me lost in the chords of my 🎸 **guitar or 🎹 piano**, exploring new destinations through ✈️ **travel**, or grounding myself with a 🥾 **hike** amidst nature. I'm not one for conventional learning paths; my growth is self-directed 📚 and fueled by an intrinsic desire to continuously evolve and truly stand out—to be that **1 in 1,000,000**. My motto for both life and code: 💭 "**Make it Clean. Make it make sense. Make it Last.**" captures the essence of my dedication to excellence and enduring impact.
 </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true)
 
 # What I'm good with 
 <p align="center">
