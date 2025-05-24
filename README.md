@@ -6,5 +6,10 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaveen-Balasooriya&layout=compact&card_width=320&size_weight=0.5&count_weight=0.5&theme=ayu-mirage&hide_border=true" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
+</picture>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=footer)
