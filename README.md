@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=header&text=Shaveen%20Balasooriya&desc=Software%20Engineer%20|%20System%20Architect%20|%20Solution%20Architect%20|%20%20Cybersecurity%20Enthusiast&descSize=15&descAlignY=94&animation=fadeIn&width=100%)
 
+# About Me
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true)
 
-
+# What I'm good with 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
@@ -43,6 +44,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+# My Stats
 
 <div align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shaveen-Balasooriya&show=prs_merged,prs_merged_percentage&show_icons=true&theme=ayu-mirage&hide_border=true&custom_title=My%20GitHub%20Stats" />
@@ -56,5 +58,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Shaveen-Balasooriya/Shaveen-Balasooriya/output/github-snake.svg" />
 </picture>
+
+# My Activity
+
+[![Shaveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaveen-Balasooriya&theme=xcode&hide_border=true&custom_title=My%20Contribution%20Graph&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=footer)
