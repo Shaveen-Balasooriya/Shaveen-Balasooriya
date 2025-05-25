@@ -2,15 +2,17 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true)
 
-<p align="justify">
+<div style="text-align: justify; text-justify: inter-word;">
+<p align="justify" style="text-align: justify; text-justify: inter-word;">
 From the verdant landscapes of 🇱🇰 <strong>Kandy, Sri Lanka</strong>, my digital adventure ignited even before attending Trinity College 🎓 and was forged further through the rigorous academics of the University of Plymouth.
 
-I'm an 🏗️ **Architect of solutions**, approaching every challenge with a multi-faceted perspective. My process is deeply rooted in strategic foresight: I meticulously plan by laying out numerous paths 🧩 before committing to the most efficient and impactful one. This ensures that every piece of work I create isn't just effective, but also carries my unique imprint, a signature of quality and distinctiveness.
+I'm an 🏗️ <strong>Architect of solutions</strong>, approaching every challenge with a multi-faceted perspective. My process is deeply rooted in strategic foresight: I meticulously plan by laying out numerous paths 🧩 before committing to the most efficient and impactful one. This ensures that every piece of work I create isn't just effective, but also carries my unique imprint, a signature of quality and distinctiveness.
 
-My technological interests are as expansive as they are deep. While I'm currently immersed in 💻 **Software Engineering**, my true fascination lies at the cutting edge of 🤖 **Artificial Intelligence, 📊 Data Science, and 🔒 Cybersecurity**. I thrive on intellectual challenges, fearlessly exploring diverse domains—whether it's developing robust e-commerce solutions or diving into complex cybersecurity projects. My strong command of 🐍 **Python** empowers me to bring my ideas to life, especially when satisfying my passion for tangible innovation through 🔌 **IoT devices**.
+My technological interests are as expansive as they are deep. While I'm currently immersed in 💻 <strong>Software Engineering</strong>, my true fascination lies at the cutting edge of 🤖 <strong>Artificial Intelligence</strong>, 📊 <strong>Data Science</strong>, and 🔒 <strong>Cybersecurity</strong>. I thrive on intellectual challenges, fearlessly exploring diverse domains—whether it's developing robust e-commerce solutions or diving into complex cybersecurity projects. My strong command of 🐍 <strong>Python</strong> empowers me to bring my ideas to life, especially when satisfying my passion for tangible innovation through 🔌 <strong>IoT devices</strong>.
 
-When I'm not immersed in code, you'll often find me lost in the chords of my 🎸 **guitar or 🎹 piano**, exploring new destinations through ✈️ **travel**, or grounding myself with a 🥾 **hike** amidst nature. I'm not one for conventional learning paths; my growth is self-directed 📚 and fueled by an intrinsic desire to continuously evolve and truly stand out—to be that **1 in 1,000,000**. My motto for both life and code: 💭 "**Make it Clean. Make it make sense. Make it Last.**" captures the essence of my dedication to excellence and enduring impact.
+When I'm not immersed in code, you'll often find me lost in the chords of my 🎸 <strong>guitar</strong> or 🎹 <strong>piano</strong>, exploring new destinations through ✈️ <strong>travel</strong>, or grounding myself with a 🥾 <strong>hike</strong> amidst nature. I'm not one for conventional learning paths; my growth is self-directed 📚 and fueled by an intrinsic desire to continuously evolve and truly stand out—to be that <strong>1 in 1,000,000</strong>. My motto for both life and code: 💭 "<strong>Make it Clean. Make it make sense. Make it Last.</strong>" captures the essence of my dedication to excellence and enduring impact.
 </p>
+</div>
 
 <h2 align="center">STACK</h2>
 
