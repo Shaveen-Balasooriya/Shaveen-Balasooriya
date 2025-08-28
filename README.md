@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,16,13&section=header&text=Shaveen%20Balasooriya&desc=Software%20Engineer%20|%20System%20Architect%20|%20Solution%20Architect%20|%20%20Cybersecurity%20Enthusiast&descSize=15&descAlignY=94&animation=fadeIn&width=100%)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Shaveen-Balasooriya&theme=dark_lover&rank=-?&column=-1&margin-w=16&margin-h=16&no-bg=true&no-frame=true) -->
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p align="justify" style="text-align: justify; text-justify: inter-word;">
